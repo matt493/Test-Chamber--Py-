@@ -1,0 +1,42 @@
+{
+    "source_code": "print1+2+w==\n",
+    "language_id": 71,
+    "stdin": "SnVkZ2Uw\n",
+    "expected_output": null,
+    "stdout": null,
+    "status_id": 11,
+    "created_at": "2021-03-08T20:40:51.870Z",
+    "finished_at": "2021-03-08T20:40:53.190Z",
+    "time": "0.027",
+    "memory": 3560,
+    "stderr": "ICBGaWxlICJzY3JpcHQucHkiLCBsaW5lIDEKU3ludGF4RXJyb3I6IE5vbi1V\nVEYtOCBjb2RlIHN0YXJ0aW5nIHdpdGggJ1x4YTYnIGluIGZpbGUgc2NyaXB0\nLnB5IG9uIGxpbmUgMSwgYnV0IG5vIGVuY29kaW5nIGRlY2xhcmVkOyBzZWUg\naHR0cDovL3B5dGhvbi5vcmcvZGV2L3BlcHMvcGVwLTAyNjMvIGZvciBkZXRh\naWxzCg==\n",
+    "token": "57d1f2a8-4394-4458-8093-abed75873037",
+    "number_of_runs": 1,
+    "cpu_time_limit": "5.0",
+    "cpu_extra_time": "1.0",
+    "wall_time_limit": "10.0",
+    "memory_limit": 128000,
+    "stack_limit": 64000,
+    "max_processes_and_or_threads": 60,
+    "enable_per_process_and_thread_time_limit": false,
+    "enable_per_process_and_thread_memory_limit": false,
+    "max_file_size": 1024,
+    "compile_output": null,
+    "exit_code": 1,
+    "exit_signal": null,
+    "message": "RXhpdGVkIHdpdGggZXJyb3Igc3RhdHVzIDE=\n",
+    "wall_time": "0.083",
+    "compiler_options": null,
+    "command_line_arguments": null,
+    "redirect_stderr_to_stdout": false,
+    "callback_url": null,
+    "additional_files": null,
+    "status": {
+        "id": 11,
+        "description": "Runtime Error (NZEC)"
+    },
+    "language": {
+        "id": 71,
+        "name": "Python (3.8.1)"
+    }
+}
